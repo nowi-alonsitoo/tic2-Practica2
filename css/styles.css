@@ -524,3 +524,7 @@ html, body {
     max-width: 100%;
     overflow-x: hidden;
 }
+.tarjetas {
+    column-gap: 80px !important;
+    row-gap: 30px;
+}
