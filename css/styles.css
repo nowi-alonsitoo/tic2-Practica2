@@ -6,7 +6,7 @@
 
 
 .raya {
-    width: 85%;
+    width: 50%;
     height: 3px;
     background-color: rgba(255, 255, 255, 0.663);
     margin: 25px auto;
@@ -17,7 +17,7 @@
 .rayon {
     width: 200px;
     height: 1px;
-    background-color: #0f0f10b2;
+    background-color: rgba(255, 255, 255, 0.663);
     margin: 60px auto;
     border-radius: 10px;
 }
