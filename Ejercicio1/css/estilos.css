@@ -1,0 +1,32 @@
+.tarjeta {
+  border: 2px solid #c9d2dd;
+  padding: 1rem;
+  color: white;
+}
+
+.tarjeta h3 {
+  margin-top: 0;
+  color: white;
+}
+
+.body {
+  background-color: rgba(127, 199, 177, 0.596);
+  color: white;
+}
+
+.fto {
+  background-image: url("dark.jpg");
+  background-size: cover;
+  background-position: center;
+  color: white;
+}
+
+
+.tarjeta p,
+.tarjeta h1,
+.tarjeta h2,
+.tarjeta h3,
+.tarjeta span,
+.tarjeta a {
+  color: white;
+}
