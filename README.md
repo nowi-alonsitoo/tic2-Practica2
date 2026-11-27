@@ -63,36 +63,7 @@ Los recursos utilizados en el proyecto son los siguientes:
 
 Bootstrap: framework CSS y JavaScript obtenido de https://getbootstrap.com/
 Avatar personal: imagen utilizada en el apartado «¿Quién soy?», guardada en img2/AvatarMaker.png.
-Imágenes y vídeos: recursos gráficos y audiovisuales almacenados en la carpeta img2/.
-
-Las imágenes, vídeos y demás recursos externos deben conservar su atribución y licencia original cuando corresponda.
-
-7. PUBLICACIÓN EN EL SERVIDOR
-
-El proyecto está preparado para publicarse en el servidor del centro educativo.
-
-URL de acceso: http://IP-del-servidor/usuarioXX/
-
-Fecha de publicación: Pendiente de completar.
-
-Antes de la entrega se debe comprobar que la página principal se carga correctamente, que todos los enlaces funcionan y que las imágenes, vídeos y hojas de estilo se muestran sin errores.
-
-8. VALIDACIÓN
-
-Se recomienda comprobar la corrección del código HTML mediante el validador oficial del W3C:
-
-https://validator.w3.org/
-
-También se deben revisar las rutas relativas, los nombres de los archivos y la correcta organización de las carpetas.
-
-9. AUTOR
-
-Nombre: Noé Gayoso Alonso
-Curso: 2.º de Bachillerato
-Centro: Salesianos A Coruña
-Asignatura: TIC II
-Proyecto: Práctica 03 – Portfolio personal con Bootstrap
-Correo de contacto: noe.gayoso.portfolio@gmail.com
+Imágenes y vídeos: recursos gráficos y audiovisuales en la carpeta img2/.
 
 10. HERRAMIENTA UTILIZADA PARA CREAR EL AVATAR
 
